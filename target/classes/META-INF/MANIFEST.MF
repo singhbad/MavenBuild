@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Built-By: Badal Singh
+Class-Path: selenium-java-2.45.0.jar selenium-chrome-driver-2.45.0.jar
+  selenium-remote-driver-2.45.0.jar cglib-nodep-2.1_3.jar gson-2.3.1.j
+ ar selenium-api-2.45.0.jar guava-18.0.jar selenium-htmlunit-driver-2.
+ 45.0.jar htmlunit-2.15.jar xalan-2.7.1.jar serializer-2.7.1.jar commo
+ ns-collections-3.2.1.jar commons-lang3-3.3.2.jar httpmime-4.3.3.jar c
+ ommons-codec-1.9.jar htmlunit-core-js-2.15.jar xercesImpl-2.11.0.jar 
+ xml-apis-1.4.01.jar nekohtml-1.9.21.jar cssparser-0.9.14.jar sac-1.3.
+ jar commons-logging-1.1.3.jar jetty-websocket-8.1.15.v20140411.jar je
+ tty-util-8.1.15.v20140411.jar jetty-io-8.1.15.v20140411.jar jetty-htt
+ p-8.1.15.v20140411.jar httpclient-4.3.6.jar httpcore-4.3.3.jar seleni
+ um-firefox-driver-2.45.0.jar commons-io-2.4.jar commons-exec-1.1.jar 
+ selenium-ie-driver-2.45.0.jar jna-3.4.0.jar platform-3.4.0.jar seleni
+ um-safari-driver-2.45.0.jar selenium-support-2.45.0.jar webbit-0.4.14
+ .jar netty-3.5.2.Final.jar selenium-leg-rc-2.45.0.jar testng-6.8.8.ja
+ r bsh-2.0b4.jar jcommander-1.27.jar
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Main-Class: fully.qualified.MainClass
+
